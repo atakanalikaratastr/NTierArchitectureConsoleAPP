@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.ConsoleUI\\NTier.ConsoleUI.csproj": {}
+  },
+  "projects": {
+    "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\ATAKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ATAKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Business\\NTier.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Business\\NTier.Business.csproj",
+        "projectName": "NTier.Business",
+        "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Business\\NTier.Business.csproj",
+        "packagesPath": "C:\\Users\\ATAKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ATAKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.DataAccess\\NTier.DataAccess.csproj": {
+                "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.DataAccess\\NTier.DataAccess.csproj"
+              },
+              "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Entities\\NTier.Entities.csproj": {
+                "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Entities\\NTier.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.ConsoleUI\\NTier.ConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.ConsoleUI\\NTier.ConsoleUI.csproj",
+        "projectName": "NTier.ConsoleUI",
+        "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.ConsoleUI\\NTier.ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\ATAKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.ConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ATAKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Business\\NTier.Business.csproj": {
+                "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Business\\NTier.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.DataAccess\\NTier.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.DataAccess\\NTier.DataAccess.csproj",
+        "projectName": "NTier.DataAccess",
+        "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.DataAccess\\NTier.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ATAKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ATAKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\Core\\Core.csproj": {
+                "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\Core\\Core.csproj"
+              },
+              "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Entities\\NTier.Entities.csproj": {
+                "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Entities\\NTier.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Entities\\NTier.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Entities\\NTier.Entities.csproj",
+        "projectName": "NTier.Entities",
+        "projectPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Entities\\NTier.Entities.csproj",
+        "packagesPath": "C:\\Users\\ATAKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Gerekli\\FahriyeBaciCalisma\\16.09.2021\\NTierArchitectureConsoleAPP (1)\\NTierArchitectureConsoleAPP\\NTier.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ATAKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

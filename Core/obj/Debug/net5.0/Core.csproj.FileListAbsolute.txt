@@ -1,0 +1,48 @@
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.dll
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.dll
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\fahri\source\repos\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.deps.json
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\ref\Core.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\bin\Debug\net5.0\Core.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\ref\Core.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\Core\obj\Debug\net5.0\Core.pdb

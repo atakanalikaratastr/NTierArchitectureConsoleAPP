@@ -1,0 +1,201 @@
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.exe
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.deps.json
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.runtimeconfig.json
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.runtimeconfig.dev.json
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\ref\NTier.WebAPI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.AssemblyReference.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.AssemblyInfoInputs.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.AssemblyInfo.cs
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\staticwebassets\NTier.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\staticwebassets\NTier.WebAPI.StaticWebAssets.xml
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\scopedcss\bundle\NTier.WebAPI.styles.css
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.CopyComplete
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\ref\NTier.WebAPI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.genruntimeconfig.cache
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Core.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Business.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.DataAccess.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Entities.dll
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Business.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Core.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.DataAccess.pdb
+C:\Users\fahri\Desktop\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Entities.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.exe
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.deps.json
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.runtimeconfig.dev.json
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\ref\NTier.WebAPI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Core.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Business.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.DataAccess.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Entities.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Business.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Core.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.DataAccess.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Entities.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\staticwebassets\NTier.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\staticwebassets\NTier.WebAPI.StaticWebAssets.xml
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\scopedcss\bundle\NTier.WebAPI.styles.css
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.CopyComplete
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\ref\NTier.WebAPI.dll
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.pdb
+C:\Users\EXCALIBUR\Desktop\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.genruntimeconfig.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.exe
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.deps.json
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.runtimeconfig.json
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.runtimeconfig.dev.json
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\ref\NTier.WebAPI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.WebAPI.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Core.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Business.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.DataAccess.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Entities.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Business.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\Core.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.DataAccess.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\bin\Debug\net5.0\NTier.Entities.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.AssemblyReference.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.AssemblyInfoInputs.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.AssemblyInfo.cs
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.CoreCompileInputs.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\staticwebassets\NTier.WebAPI.StaticWebAssets.Manifest.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\staticwebassets\NTier.WebAPI.StaticWebAssets.xml
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\scopedcss\bundle\NTier.WebAPI.styles.css
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.RazorTargetAssemblyInfo.cache
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.csproj.CopyComplete
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\ref\NTier.WebAPI.dll
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.pdb
+D:\Gerekli\FahriyeBaciCalisma\16.09.2021\NTierArchitectureConsoleAPP (1)\NTierArchitectureConsoleAPP\NTier.WebAPI\obj\Debug\net5.0\NTier.WebAPI.genruntimeconfig.cache

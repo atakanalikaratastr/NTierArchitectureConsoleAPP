@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{7F1C8EF1-C0D7-43CF-9F70-1E6AC3F8D6F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NTier.Entities", "NTier.Entities\NTier.Entities.csproj", "{006D698A-2D10-47D8-A7BE-0C552118A42B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NTier.DataAccess", "NTier.DataAccess\NTier.DataAccess.csproj", "{DBC7BE35-7D46-4056-A417-26512682B5EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NTier.Business", "NTier.Business\NTier.Business.csproj", "{CEABC4F0-B493-4B8C-A683-300B1CB461C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NTier.ConsoleUI", "NTier.ConsoleUI\NTier.ConsoleUI.csproj", "{E8319C0A-69E3-46C1-A925-3C90846D5228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTier.WebAPI", "NTier.WebAPI\NTier.WebAPI.csproj", "{F3C30E52-1BD7-483D-8784-9D8638441BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1C8EF1-C0D7-43CF-9F70-1E6AC3F8D6F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1C8EF1-C0D7-43CF-9F70-1E6AC3F8D6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1C8EF1-C0D7-43CF-9F70-1E6AC3F8D6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1C8EF1-C0D7-43CF-9F70-1E6AC3F8D6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006D698A-2D10-47D8-A7BE-0C552118A42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006D698A-2D10-47D8-A7BE-0C552118A42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006D698A-2D10-47D8-A7BE-0C552118A42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006D698A-2D10-47D8-A7BE-0C552118A42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC7BE35-7D46-4056-A417-26512682B5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC7BE35-7D46-4056-A417-26512682B5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC7BE35-7D46-4056-A417-26512682B5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC7BE35-7D46-4056-A417-26512682B5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEABC4F0-B493-4B8C-A683-300B1CB461C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEABC4F0-B493-4B8C-A683-300B1CB461C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEABC4F0-B493-4B8C-A683-300B1CB461C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEABC4F0-B493-4B8C-A683-300B1CB461C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8319C0A-69E3-46C1-A925-3C90846D5228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8319C0A-69E3-46C1-A925-3C90846D5228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8319C0A-69E3-46C1-A925-3C90846D5228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8319C0A-69E3-46C1-A925-3C90846D5228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C30E52-1BD7-483D-8784-9D8638441BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C30E52-1BD7-483D-8784-9D8638441BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C30E52-1BD7-483D-8784-9D8638441BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C30E52-1BD7-483D-8784-9D8638441BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B646D1A-C2EE-4AD7-B237-FCB205EC873A}
+	EndGlobalSection
+EndGlobal
